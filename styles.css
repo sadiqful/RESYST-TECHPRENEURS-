@@ -78,10 +78,6 @@
   -o-transition: width .25s;
   transition: width .25s;
 }
-#cssmenu ul li.last > a:after,
-#cssmenu ul li:last-child > a:after {
-  display: none;
-}
 #cssmenu ul li.active a {
   color: #333333;
 }
